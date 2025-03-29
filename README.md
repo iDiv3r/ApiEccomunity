@@ -28,7 +28,7 @@ Este proyecto es una API construida con **FastAPI** y **SQLAlchemy** para gestio
 ## 🚀 Instalación del entorno
 
 ```bash
-git clone https://tu-repo.git
+git clone https://github.com/lacabraloca1/ApiEccomunity.git
 cd ApiEccomunity
 python -m venv env
 source env/bin/activate
